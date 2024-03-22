@@ -1,0 +1,29 @@
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#status, #numberOfObjects, #startModel 
+{
+  font-size: 18px;
+}
+
+body {
+  background-size: cover;
+  background-position: center;
+
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+canvas {
+  box-shadow: 10px 10px 10px grey;
+  border-radius: 10px;
+  margin-top: 30px;
+}
